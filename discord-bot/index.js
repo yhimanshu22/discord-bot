@@ -38,4 +38,4 @@ client.on('interactionCreate',async (interaction) => {
     interaction.reply('Pong!');
 });
 
-client.login('MTE4ODU3MTI2NTE1MDIzODgxMg.GC5nE8.2ED03xlpQ1lc8yWJQFUVjjLDFF8eIh04wbQ3y4');
+client.login(TOKEN);
